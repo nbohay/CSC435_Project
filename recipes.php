@@ -6,7 +6,7 @@
             <a href="#Cake">Angel Cake</a></p>
             </div>
             <h2 id="Smoothie">Coconut, Berry, and Spinach Smoothie Recipe</h2>
-            <img height="65%" width="auto"  src="images/Smoothie-Main-1.jpg" />
+            <img height="auto" width="45%"  src="images/Smoothie-Main-1.jpg" />
             <p>Ingredients</p><ul>
             <li>1 1/2 cups coconut milk</li>
             <li>1 1/2 cups cold water</li>
@@ -23,7 +23,7 @@
               
               <br />
             <h2 id="Kabobs">  Tequila-Lime Chicken and Vegetable Kabobs </h2>
-            <img height="45%" width="auto" src="images/Chicken-Kabobs-Small.jpg"/>
+            <img height="auto" width="65%" src="images/Chicken-Kabobs-Small.jpg"/>
             <p>Ingredients</p>
             <p>For the marinade: </p>
             <ul>
@@ -32,7 +32,7 @@
               <li>2 tablespoons red wine vinegar </li>
               <li>2 tablespoons tequila (optional) </li>
               <li>Juice of 1 lime </li>
-              <li>1 pound chicken, cut into bite-size pieces (don’t cut       them too large or they won’t cook evenly) </li>
+              <li>1 pound chicken, cut into bite-size pieces</li>
             </ul>
             <p>For the Vegetables: </p>
             <ul>
@@ -60,7 +60,7 @@
               <br />
               
             <h2 id="Cake">Angel Cake</h2>
-            <img height="auto" width="45%" src="images/Paleo-Grain-Free-Angel-Food-Cake-H2.jpg"/>
+            <img height="auto" width="65%" src="images/Paleo-Grain-Free-Angel-Food-Cake-H2.jpg"/>
             <p>Ingredients<br />
 			For the Cake: </p>
             <ul>
@@ -76,7 +76,7 @@
             </ul>
             <p>Instructions</p>
             <ol>
-              <li>Preheat the oven to 350ºF and adjust the rack to the middle position. </li>
+              <li>Preheat the oven to 350F and adjust the rack to the middle position. </li>
               <li>Place the egg whites and lemon juice in the bowl of a standing mixer. Whisk the egg mixture on medium-high until foamy, about 30       seconds. Add the salt, cream of tartar and vanilla. Whisk the mixture on medium-high until soft peaks form, about 1-2 minutes. </li>
               <li>With the mixer on medium-high, slowly add 1/2 cup of the maple sugar, 1 tablespoon at a time. Sift the remaining 1/4 cup maple       sugar and arrowroot flour into a small bowl. With the mixer on medium, slowly add the arrowroot mixture. Turn the speed up to medium-high and       whip until smooth (there might be some tiny little lumps from the sugar, but it will melt in the oven while baking). </li>
               <li>Pour the batter into a clean (and NOT oiled), 12-cup angel food cake pan. Bake for 40-45 minutes, until cake is puffed and the top is just turning golden brown. </li>

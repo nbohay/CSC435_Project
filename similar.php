@@ -25,9 +25,8 @@
     <div id="footer">
     
         @2016 TrueNature. All rights reserved
-       <br> <br>
-       <h2 style="color:#000">Subscribe To TrueNature</h2><br>
-       <a href="mailto:subscriber@truenature.com"><img src="images/email.png"></a><br><br><br>
+       <h2 style="color:#000">Subscribe To TrueNature</h2>
+       <a href="mailto:subscriber@truenature.com"><img src="images/email.png"></a><br><br>
        <a href="https://validator.w3.org/" target="_blank"><img src="images/valid-xhtml11.png" alt="validhtml"></a><a href="https://validator.w3.org/" target="_blank"><img src="images/vcss.gif" alt="validcss"></a>
     </div>
     </div>

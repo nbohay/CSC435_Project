@@ -41,11 +41,21 @@ h1,h2{
 	display:inline;
 	
 }
-
 @media screen and (max-width: 745px){
 	#logo{float:none; text-align:center;}
     .nav ul {float:none; text-align:center; padding-left:0px;}
-	.nav li {display:block;  text-align:center;} 
+	.nav li {display:block; text-align:center;} 
+	
+}
+
+
+@media screen and (max-device-width: 480px){
+	#logo{float:none; text-align:center;}
+	body {font-size:24px;}
+    .nav ul {float:none; text-align:center; padding-left:0px;}
+	.nav li {display:block; font-size:26pt; text-align:center;} 
+	td{font-size:24px;}
+	table{width:100%;}
 	
 }
 
@@ -74,6 +84,10 @@ h1,h2{
 	border-top:2.5px solid #DDDDDD;
 	width:auto;
 }
+
+
+td{
+	font-size:16pt;}
 
 #footer{
 	clear:both;

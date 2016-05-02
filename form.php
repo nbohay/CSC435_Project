@@ -56,12 +56,12 @@ if (z==null || z==""){
 }
 </script>        
 <div  id="content">
-
+<div id="form">
 <form name="myForm" action="form-submit.php" onsubmit="return validateForm()" method="post">
 <legend><h1>Order Form:</h1></legend>   
 <h2>Products:</h2><br />
     
-    <table  width="480px" border="0">
+    <table  width="75%" border="0">
     <!--creates 10 item rows with a column for item number, item type and for quantities-->
     <?php 
 	for($i=0; $i<10; $i++){ ?>
@@ -100,7 +100,7 @@ if (z==null || z==""){
    <br />
 <h2>Payment:</h2>
 
-<table width="480px">
+<table width="75%">
 	
     <tr>
     <td>
@@ -158,5 +158,5 @@ if (z==null || z==""){
 	</div>
 	</form>
 </div>
-
+</div>
  <?php bottom()?>

@@ -1,0 +1,1 @@
+Project created entirely from scratch. This project was my final for my web development class. No use of bootstrap. 
